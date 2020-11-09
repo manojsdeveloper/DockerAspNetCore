@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mano/.dotnet/store/|arch|/|tfm|",
+      "/Users/mano/.nuget/packages"
+    ]
+  }
+}
